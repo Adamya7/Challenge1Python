@@ -1,2 +1,3 @@
 # Challenge1Python
-Sorting Heterogeneous List
+An approach for Sorting Heterogeneous List
+Happy Learning. :)
